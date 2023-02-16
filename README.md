@@ -1,2 +1,2 @@
 # Covid-Demographic-Data-Final_Hackathon-
-This repository provides data visualizations done using Tableau in order to show over a years worth of covid-19 data in a way that is comprehensive and undderstandable to those who aren't the seriously affiliated with the world of data snalytics. Visualizations, range from bar charts, treemaps, and more.  
+This repository provides data visualizations using Tableau to show over a year's worth of covid-19 data within the state of Georgia from 2020 -> 2022, in a comprehensive and understandable way. Visualizations range from bar charts to tree maps, and more.  This project explores relationships between counties, cases, death rates, and preexisting health conditions.
